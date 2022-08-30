@@ -7,4 +7,4 @@ The other way is by the use of the turtle library. This module comes pre-install
 
 Therefore, this project uses the turtle library to implement a simple snake game which is easier and faster to develop.
 
-<img src="data/test.gif" width="600" >
+<img src="https://github.com/haroonhublikar12/Snake-game-in-python/blob/main/data/test.gif" width="600" >
