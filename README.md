@@ -1,4 +1,4 @@
-# Snake-game-in-python
+# Snake game in python
 
 
 There are a number of ways to create this game, and one includes the use of Python’s PyGame library, which is a Python library used to create games.
