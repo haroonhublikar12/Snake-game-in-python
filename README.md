@@ -25,6 +25,6 @@ Therefore, this project uses the turtle library to implement a simple snake game
 3. Setup the direction keys for the snake.
 4. Implement gameplay rules and parameters.
 
-## Python code
+## Code
 
 * [Code](code/code.py/)
