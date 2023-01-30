@@ -16,7 +16,7 @@ Therefore, this project uses the turtle library to implement a simple snake game
 * Turtle
 * Time
 * random
-* Visual Studio Code with python 3
+
 
 ## Steps
 
